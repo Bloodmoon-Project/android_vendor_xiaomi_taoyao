@@ -1,0 +1,13 @@
+//
+// Automatically generated file. DO NOT MODIFY
+//
+
+soong_namespace {
+    imports: [
+        "hardware/qcom-caf/sm8350",
+        "hardware/xiaomi",
+        "device/xiaomi/taoyao",
+        "vendor/qcom/opensource/display",
+        "vendor/xiaomi/sm8350-common",
+    ],
+}
